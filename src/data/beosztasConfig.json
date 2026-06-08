@@ -1,0 +1,169 @@
+{
+  "beosztasOptions": [
+    { "value": "Járőrtárs", "label": "Járőrtárs" },
+    { "value": "Bűnügyi fogalmazó", "label": "Bűnügyi fogalmazó" },
+    { "value": "Gépjárművezető", "label": "Gépjárművezető" },
+    { "value": "Objektumőr", "label": "Objektumőr" },
+    { "value": "Motorcsónak-vezető", "label": "Motorcsónak-vezető" },
+    { "value": "Kísérőőr", "label": "Kísérőőr" },
+    { "value": "Járőr", "label": "Járőr" },
+    { "value": "Határrendész", "label": "Határrendész" },
+    { "value": "Fogdaőr", "label": "Fogdaőr" },
+
+    
+    { "value": "Bűnügyi segédelőadó", "label": "Bűnügyi segédelőadó" },
+    { "value": "Segédelőadó", "label": "Segédelőadó" },
+    { "value": "Kutyavezető", "label": "Kutyavezető" },
+    { "value": "Járőrvezető", "label": "Járőrvezető" },
+    { "value": "Hajóvizsgáló", "label": "Hajóvizsgáló" },
+    { "value": "Főhatárrendész", "label": "Főhatárrendész" },
+    { "value": "Fogdafelügyelő", "label": "Fogdafelügyelő" },
+
+    { "value": "Hajóvezető", "label": "Hajóvezető" },
+    { "value": "Bűnügyi referens", "label": "Bűnügyi referens" },
+    { "value": "Járőrparancsnok", "label": "Járőrparancsnok" },
+    { "value": "Kiemelt főhatárrendész", "label": "Kiemelt főhatárrendész" },
+    { "value": "Kiképző", "label": "Kiképző" },
+    { "value": "Ügyeletes", "label": "Ügyeletes" },
+    { "value": "Segédtechnikus", "label": "Segédtechnikus" },
+
+    { "value": "Referens", "label": "Referens" },
+    { "value": "Vizsgáló", "label": "Vizsgáló" },
+    { "value": "Technikus", "label": "Technikus" },
+    { "value": "Szolgálatparancsnok-helyettes", "label": "Szolgálatparancsnok-helyettes" },
+    { "value": "Határrendészeti szakértő", "label": "Határrendészeti szakértő" },
+    { "value": "Nyomozó", "label": "Nyomozó" },
+    { "value": "Körzeti megbízott", "label": "Körzeti megbízott" },
+    { "value": "Helyszínelő és balesetvizsgáló", "label": "Helyszínelő és balesetvizsgáló" },
+    { "value": "Helyszínelő", "label": "Helyszínelő" },
+
+    { "value": "Csoportparancsnok", "label": "Csoportparancsnok" },
+    { "value": "Szolgálatirányító parancsnok", "label": "Szolgálatirányító parancsnok" },
+    { "value": "Szolgálatparancsnok", "label": "Szolgálatparancsnok" },
+    { "value": "Őrparancsnok", "label": "Őrparancsnok" },
+
+    { "value": "Járőr (közterületi támogató)", "label": "Járőr (közterületi támogató)" },
+    { "value": "Járőrvezető (közterületi támogató)", "label": "Járőrvezető (közterületi támogató)" },
+    { "value": "Szolgálatparancsnnok (közterületi támogató)", "label": "Szolgálatparancsnnok (közterületi támogató)" },
+    
+    { "value": "Futár", "label": "Futár" },
+    { "value": "Raktárvezető", "label": "Raktárvezető" },
+    { "value": "Szakoktató", "label": "Szakoktató" }
+    
+  ],
+  "Helyi": [
+    {    
+      "Tiszthelyettes": [
+        {"A kategória": [
+          {"Járőr": "Járőr"},
+          {"Járőrtárs": "Járőrtárs"}
+        ]},
+        {"B kategória": [
+          {"Járőrvezető": "Járőrvezető"},
+          {"Főhatárrendész": "Főhatárrendész"}
+        ]}
+      ]
+    }
+  ],
+  "beosztasDescriptions": {
+    "Járőrtárs": "Járőrtársi beosztás",
+    "Járőr": "Járőri beosztás",
+    "Határrendész": "Határrendészeti beosztás"
+  },
+  "kategóriaMap": {
+    "Tiszthelyettes": {
+      "Helyi": {
+        "Járőrtárs": "A kategória",
+        "Bűnügyi fogalmazó": "A kategória",
+        "Gépjárművezető": "A kategória",
+        "Objektumőr": "A kategória",
+        "Motorcsónak-vezető": "A kategória",
+        "Kísérőőr": "A kategória",
+        "Járőr": "A kategória",
+        "Határrendész": "A kategória",
+        "Fogdaőr": "A kategória",
+
+        "Bűnügyi segédelőadó": "B kategória",
+        "Segédelőadó": "B kategória",
+        "Kutyavezető": "B kategória",
+        "Járőrvezető": "B kategória",
+        "Hajóvizsgáló": "B kategória",
+        "Főhatárrendész": "B kategória",
+        "Fogdafelügyelő": "B kategória",
+
+        
+        "Hajóvezető": "C kategória",
+        "Bűnügyi referens": "C kategória",        
+        "Járőrparancsnok": "C kategória",
+        "Kiemelt főhatárrendész": "C kategória",        
+        "Kiképző": "C kategória",
+        "Ügyeletes": "C kategória",        
+        "Segédtechnikus": "C kategória",
+        
+        "Referens": "D kategória",
+        "Vizsgáló": "D kategória",
+        "Technikus": "D kategória",
+        "Szolgálatparancsnok-helyettes": "D kategória",
+        "Határrendészeti szakértő": "D kategória",
+        "Nyomozó": "D kategória",        
+        "Körzeti megbízott": "D kategória",
+        "Helyszínelő és balesetvizsgáló": "D kategória",
+        "Helyszínelő": "D kategória",
+        
+
+        "Csoportparancsnok": "E kategória",
+        "Szolgálatirányító parancsnok": "E kategória",
+        "Szolgálatparancsnok": "E kategória",
+        "Őrparancsnok": "E kategória"
+      }
+    }
+  },
+  "multiplierMap": {
+    "Tiszthelyettes": {
+      "Helyi": {
+        "Járőrtárs": "4,95",
+        "Bűnügyi fogalmazó": "5,2",
+        "Gépjárművezető": "5,2",
+        "Objektumőr": "5,2",
+        "Motorcsónak-vezető": "5,2",
+        "Kísérőőr": "5,2",
+        "Járőr": "5,2",
+        "Határrendész": "5,2",
+        "Fogdaőr": "5,2",
+
+        "Bűnügyi segédelőadó": "5,2",
+        "Segédelőadó": "5,2",
+        "Kutyavezető": "6,2",
+        "Járőrvezető": "5,2",
+        "Hajóvizsgáló": "5,2",
+        "Főhatárrendész": "5,2",
+        "Fogdafelügyelő": "5,2",
+
+        
+        "Hajóvezető": "5,2",
+        "Bűnügyi referens": "5,2",        
+        "Járőrparancsnok": "5,2",
+        "Kiemelt főhatárrendész": "5,2",        
+        "Kiképző": "0",
+        "Ügyeletes": "5,2",        
+        "Segédtechnikus": "5,2",
+        
+        "Referens": "5,2",
+        "Vizsgáló": "5,2",
+        "Technikus": "5,2",
+        "Szolgálatparancsnok-helyettes": "5,2",
+        "Határrendészeti szakértő": "5,2",
+        "Nyomozó": "5,2",        
+        "Körzeti megbízott": "5,2",
+        "Helyszínelő és balesetvizsgáló": "5,2",
+        "Helyszínelő": "5,2",
+        
+
+        "Csoportparancsnok": "5,2",
+        "Szolgálatirányító parancsnok": "5,2",
+        "Szolgálatparancsnok": "5,2",
+        "Őrparancsnok": "5,2"
+      }
+    }
+  }
+}

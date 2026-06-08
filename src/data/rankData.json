@@ -1,0 +1,20 @@
+{
+  "Központi": [
+
+  ],
+  "Területi": [
+
+  ],
+  "Helyi": {    
+      "Tiszthelyettes": {
+        "A kategória": [
+          {"Járőr": "Járőr"},
+          {"Járőrtárs": "Járőrtárs"}
+        ],
+        "B kategória": [
+          {"Járőrvezető": "Járőrvezető"},
+          {"Főhatárrendész": "Főhatárrendész"}
+        ]
+    }
+  }
+}
